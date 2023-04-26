@@ -1,0 +1,6 @@
+ubuntu18.04 compile,
+declare in header,define in source,
+whole compiler process,
+1.generate .o
+2.generate a.out
+3.generate main
